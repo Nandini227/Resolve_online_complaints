@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "./App.css"; 
+import "./App.css";
 
 const Register = () => {
   const [email, setEmail] = useState("");
@@ -50,7 +50,7 @@ const Register = () => {
   return (
     <div className="register-container">
       <div className="register-card">
-        <h2 className="register-title">Register to ResolveIt</h2>
+        <h2 className="register-title">Register to Resolvent</h2>
         <form onSubmit={handleRegister}>
           <div className="input-group">
             <label>Email:</label>
@@ -77,10 +77,7 @@ const Register = () => {
 
         <p className="register-text">
           Already have an account?{" "}
-          <span
-            className="register-link"
-            onClick={() => navigate("/usighn")}
-          >
+          <span className="register-link" onClick={() => navigate("/usighn")}>
             Login here
           </span>
         </p>
@@ -90,4 +87,3 @@ const Register = () => {
 };
 
 export default Register;
-

@@ -32,7 +32,6 @@ const Usighn = () => {
         localStorage.setItem("loggedInUser", data.user.email);
         alert("Login successful");
         navigate("/main");
-        
       } else {
         alert(data.message || "Login failed");
       }
@@ -41,7 +40,7 @@ const Usighn = () => {
       alert("Server error");
     }
   };
-const handleLogout = () => {
+  const handleLogout = () => {
     localStorage.removeItem("loggedInUser");
     setIsLoggedIn(false);
   };
@@ -49,14 +48,13 @@ const handleLogout = () => {
     return (
       <div>
         <MainContent />
-        
       </div>
     );
   }
   return (
     <div className="login-container">
       <div className="login-card">
-        <h2 className="login-title">Login to ResolveIt</h2>
+        <h2 className="login-title">Login to Resolvent</h2>
         <form onSubmit={handleLogin}>
           <div className="input-group">
             <label>Email:</label>
