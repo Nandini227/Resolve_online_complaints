@@ -1,11 +1,3 @@
-You're right — that anchor link doesn't work in ChatGPT. Instead, here are two options:
-
----
-
-### ✅ Option 1: **Copy Full `README.md` Content Below**
-
-Just copy and paste the following into a file named `README.md`:
-
 ````markdown
 # 🛠️ ResolveNow - Online Complaint Registration and Management System
 
@@ -127,12 +119,3 @@ This project is licensed under the MIT License.
 
 **Salman Shaik**
 🔗 GitHub: [@Salman-shaik116](https://github.com/Salman-shaik116)
-
-```
-
----
-
-### ✅ Option 2: Downloadable Files (Optional)
-
-If you'd prefer downloadable `.md` and `.txt` files, I can generate them here for you to download directly. Want me to do that?
-```
