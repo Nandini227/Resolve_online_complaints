@@ -49,3 +49,9 @@ Resolve_online_complaints/
 │
 └── README.md
 ```
+## 🚀 Getting Started
+### 🔧 Prerequisites
+Node.js (v18+ recommended)
+npm
+MongoDB (local or Atlas)
+Git
