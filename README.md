@@ -51,7 +51,7 @@ Resolve_online_complaints/
 ```
 ## 🚀 Getting Started
 ### 🔧 Prerequisites
-Node.js (v18+ recommended)
-npm
-MongoDB (local or Atlas)
-Git
+- Node.js (v18+ recommended)
+- npm
+- MongoDB (local or Atlas)
+- Git
