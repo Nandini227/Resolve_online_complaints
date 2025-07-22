@@ -59,10 +59,11 @@ Resolve_online_complaints/
 ### 1️⃣ Clone the repository
 git clone https://github.com/Nandini227/Resolve_online_complaints
 - cd Resolve_online_complaints
-### 2️⃣ Backend Setup
+## 2️⃣ Backend Setup
+```bash
 cd backend
 npm install
-Create a .env file (see below)
+# Create a .env file (see below)
 npm start
 ## 📄 .env example:
 ```env
