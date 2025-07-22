@@ -60,12 +60,13 @@ Resolve_online_complaints/
 git clone https://github.com/Nandini227/Resolve_online_complaints
 - cd Resolve_online_complaints
 ### 2️⃣ Backend Setup
+```bash
 cd backend
 npm install
 Create a .env file (see below)
 npm start
 ## 📄 .env example:
-
+```env
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
