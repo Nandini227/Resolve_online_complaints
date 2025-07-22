@@ -61,7 +61,7 @@ git clone https://github.com/Nandini227/Resolve_online_complaints
 - cd Resolve_online_complaints
 
 ```md
-### 2️⃣ Backend Setup
+2️⃣ Backend Setup
 
 cd backend
 npm install
