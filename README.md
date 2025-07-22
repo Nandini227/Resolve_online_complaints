@@ -55,3 +55,32 @@ Resolve_online_complaints/
 - npm
 - MongoDB (local or Atlas)
 - Git
+## 🖥️ Setup Instructions
+### 1️⃣ Clone the repository
+git clone https://github.com/Salman-shaik116/Resolve_online_complaints.git
+cd Resolve_online_complaints
+### 2️⃣ Backend Setup
+cd backend
+npm install
+# Create a .env file (see below)
+npm start
+## 📄 .env example:
+
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+EMAIL_USER=your_email@example.com
+EMAIL_PASS=your_email_password
+## 3️⃣ Frontend Setup
+cd ../frontend
+npm install
+npm start
+## 🌐 Deployment Suggestions
+- Frontend: Vercel, Netlify
+- Backend: Render, Railway, or Heroku
+- Database: MongoDB Atlas
+## 📜 License
+This project is licensed under the MIT License.
+
+## 🙋‍♂️ Author
+Salman Shaik 🔗 GitHub:@Nandini227
