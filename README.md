@@ -83,5 +83,4 @@ npm start
 This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
-# Nandini Naruboyuna
-🔗 GitHub: https://github.com/Nandini227
+Nandini Naruboyuna 🔗 GitHub: https://github.com/Nandini227
