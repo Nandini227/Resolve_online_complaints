@@ -65,7 +65,7 @@ cd backend
 npm install
 # Create a .env file (see below)
 npm start
-## 📄 .env example:
+📄 .env example:
 ```env
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
