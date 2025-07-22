@@ -57,8 +57,8 @@ Resolve_online_complaints/
 - Git
 ## 🖥️ Setup Instructions
 ### 1️⃣ Clone the repository
-git clone https://github.com/Salman-shaik116/Resolve_online_complaints.git
-cd Resolve_online_complaints
+git clone https://github.com/Nandini227/Resolve_online_complaints
+- cd Resolve_online_complaints
 ### 2️⃣ Backend Setup
 cd backend
 npm install
@@ -83,4 +83,4 @@ npm start
 This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
-Salman Shaik 🔗 GitHub:@Nandini227
+Nandini Naruboyuna 🔗 GitHub: @Nandini227
