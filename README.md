@@ -62,7 +62,7 @@ git clone https://github.com/Nandini227/Resolve_online_complaints
 ### 2️⃣ Backend Setup
 cd backend
 npm install
-# Create a .env file (see below)
+Create a .env file (see below)
 npm start
 ## 📄 .env example:
 
